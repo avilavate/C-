@@ -1,0 +1,9 @@
+C:\Users\admin\NG2\C#\LinQ\differed-linq\bin\Debug\netcoreapp1.1\differed-linq.deps.json
+C:\Users\admin\NG2\C#\LinQ\differed-linq\bin\Debug\netcoreapp1.1\differed-linq.runtimeconfig.json
+C:\Users\admin\NG2\C#\LinQ\differed-linq\bin\Debug\netcoreapp1.1\differed-linq.runtimeconfig.dev.json
+C:\Users\admin\NG2\C#\LinQ\differed-linq\bin\Debug\netcoreapp1.1\differed-linq.dll
+C:\Users\admin\NG2\C#\LinQ\differed-linq\bin\Debug\netcoreapp1.1\differed-linq.pdb
+C:\Users\admin\NG2\C#\LinQ\differed-linq\obj\Debug\netcoreapp1.1\differed-linq.csprojResolveAssemblyReference.cache
+C:\Users\admin\NG2\C#\LinQ\differed-linq\obj\Debug\netcoreapp1.1\differed-linq.AssemblyInfo.cs
+C:\Users\admin\NG2\C#\LinQ\differed-linq\obj\Debug\netcoreapp1.1\differed-linq.dll
+C:\Users\admin\NG2\C#\LinQ\differed-linq\obj\Debug\netcoreapp1.1\differed-linq.pdb
